@@ -1,0 +1,7 @@
+1
+820.0
+C++
+Others
+Book_Images\\C++.jpg
+Bjarne Stroustrup
+17
