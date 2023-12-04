@@ -46,15 +46,6 @@ public class Login_Panel{
 					
 					if (result == JOptionPane.YES_OPTION){
 						
-						File folder = new File("E:\\CODES\\JAVA\\JAVA Codes\\JAVA Final Project\\SOURCES");
-						File fList[] = folder.listFiles();
-
-						for (File f : fList) {
-							if (f.getName().endsWith(".class")) {
-								f.delete(); 
-							}
-						}
-						
 						frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 					
 					}else{
